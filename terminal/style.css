@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(23, 23, 23);
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e54fcef-c565-4039-9963-cf31a5e41081/dbdhoju-2953e0d9-f588-4611-8856-a1669bd066b1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllNTRmY2VmLWM1NjUtNDAzOS05OTYzLWNmMzFhNWU0MTA4MVwvZGJkaG9qdS0yOTUzZTBkOS1mNTg4LTQ2MTEtODg1Ni1hMTY2OWJkMDY2YjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3hgwwWzoZ5RgLneM7X0eDRl73-3sLDci6mEnVKHe9sY);
+    background-size: cover;
+}
+#circle0 {
+  float: left;
+  margin-left: 2vh;
+  border-radius: 50%;
+  border: solid 5px red;
+
+}
+
+#circle1 {
+    float: left;
+    margin-left: 2vh;
+    border-radius: 50%;
+    border: solid 5px rgb(255, 153, 0);
+
+
+}
+
+#circle2 {
+    float: left;
+  margin-left: 2vh;
+  border-radius: 50%;
+  border: solid 5px rgb(60, 255, 0);
+
+}
+
+#parrafo{
+    float: left;
+    margin-left: 2vh;
+}
+#parrafo1{
+    margin-top: 5vh;
+    float: left;
+    margin-left: -28vh;
+}
+
+#text0{
+    background-color: rgba(20, 20, 20, 0.901);
+    height: 100%;
+    color: greenyellow;
+    width: 70%;
+    margin-top: 10vh;
+}
+
+#text01{
+    background-color: rgb(27, 27, 27);
+    height: 7vh;
+    color: greenyellow;
+    width: 100%;
+    margin-top: 2vh;
+}
+
+button{
+    background-color: rgb(52, 143, 2);
+    height: 10vh;
+    width: 30%;
+    border-radius: 7px;
+    margin-top: 15vh;
+    cursor: pointer;
+    float: left;
+    margin-top: 6vh;
+    margin-left: 1vh;
+    color: white;
+}
+
+
+#puntito{
+    color: black;
+}
+
